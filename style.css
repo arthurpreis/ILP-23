@@ -48,7 +48,6 @@ h2{
 
 .intro{
     padding-left: 10px;
-    font-size: small;
     font-style: oblique;
     color: #555555;
 }
@@ -61,8 +60,7 @@ h2{
 li{
     list-style-type: square;
     margin-top: 5px;
-    font-size: small;
-}
+    }
 
 section{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -95,5 +93,4 @@ a{
   background-color: #888888;
   margin-top: 8px;
   margin-left: 5px;
-  font-size: small;
 }
